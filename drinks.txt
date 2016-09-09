@@ -1,0 +1,9 @@
+coffee
+water
+coke
+red bull
+monster
+wine
+vodka
+pepsi
+orange
